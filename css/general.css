@@ -35,7 +35,7 @@ body {
 .logo {
     height:4.5rem;
     width:auto;
-    margin:.5rem 5%;
+    margin:.5rem auto 5%;
     /*float:right*/
     /*margin:.5rem auto */
 }
@@ -60,14 +60,14 @@ p {
 }
 figure {
     margin:0 auto 1.5rem;
-    width:100% /* Change the width of the figure*/
+    width:90%
 }
 figcaption {
     font-size:.75rem;
-    margin:.5rem 0;
+    margin:.5rem auto 0;
 }
 footer {
-    background-color:#cc0000;
+    background-color:#0033cc;
     overflow:hidden
 }
 footer p {
